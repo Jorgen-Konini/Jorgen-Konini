@@ -1,4 +1,4 @@
-# Hi, I'm Jorgen
+# I'm Jorgen
 
 **Software Engineer · React & React Native **
 
