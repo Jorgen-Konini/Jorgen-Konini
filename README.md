@@ -4,11 +4,12 @@
 
 I build web and mobile products end to end — React/React Native frontends in TypeScript, Go/PostgreSQL backends, and the product work in between: breaking down requirements, running stakeholder demos, and shipping on two-week cycles. 5+ years delivering production platforms for US healthcare, HR, and legal companies. Based in Albania, open to remote.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jorgen--konini.github.io-C8F542?style=flat-square&logo=googlechrome&logoColor=black)](https://jorgen-konini.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jorgen--konini.github.io-F2A93B?style=flat-square&logo=googlechrome&logoColor=black)](https://jorgen-konini.github.io/)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-141009?style=flat-square&logo=readdotcv&logoColor=F2A93B)](https://jorgen-konini.github.io/cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgen-konini-635722255)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jorgenkonini@gmail.com)
 
-🌐 **Portfolio & CV: [jorgen-konini.github.io](https://jorgen-konini.github.io/)**
+🌐 **Portfolio: [jorgen-konini.github.io](https://jorgen-konini.github.io/)** · 📄 **CV: [download PDF](https://jorgen-konini.github.io/cv.pdf)**
 
 ---
 
