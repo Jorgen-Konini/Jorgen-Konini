@@ -1,6 +1,6 @@
-# Hi, I'm Jorgen 👋
+# Hi, I'm Jorgen
 
-**Software Engineer · React & React Native · Go**
+**Software Engineer · React & React Native **
 
 I build web and mobile products end to end — React/React Native frontends in TypeScript, Go/PostgreSQL backends, and the product work in between: breaking down requirements, running stakeholder demos, and shipping on two-week cycles. 5+ years delivering production platforms for US healthcare, HR, and legal companies. Based in Albania, open to remote.
 
